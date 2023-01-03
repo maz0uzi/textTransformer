@@ -1,6 +1,6 @@
 # textTransformer
 
-This Windows program allows you to transform text by encrypting or decrypting it.
+This Windows program allows you to transform text by encrypting or decrypting it. It's ideal for practicing texts in visual studio.
 
 ## Building and running the program
 
